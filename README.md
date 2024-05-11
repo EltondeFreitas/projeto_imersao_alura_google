@@ -16,6 +16,8 @@ NUmpy: é uma biblioteca de código aberto destinada a realizar operações em a
 # Como Usar
 Clone o repositório para sua máquina local.
 
+Pegue o arquivo de enchentes e coloque no seguinte caminho dentro do seu colab: /content/drive/MyDrive/
+
 Execute os scripts principais ProjetoChatBotAjudaParaEnchentes.ipynb em seu google colab.
 
 Faça perguntas exclusivamente sobre enchentes para ter uma resposta de que ação tomar.
